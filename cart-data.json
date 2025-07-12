@@ -1,0 +1,14 @@
+{
+    "cart": [
+        {
+            "name": "Milk",
+            "price": 1200,
+            "quantity": 2
+        },
+        {
+            "name": "Bread",
+            "price": 800,
+            "quantity": 1
+        }
+    ]
+}
